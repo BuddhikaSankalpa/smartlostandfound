@@ -58,7 +58,6 @@ $result = mysqli_query($conn, $sql);
     <div class="main-content">
         <div class="header">
             <h1>Claims</h1>
-            <a href="login.php" class="logout-btn">Logout</a>
         </div>
 
         <table class="data-table">

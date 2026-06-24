@@ -53,10 +53,6 @@ $result = mysqli_query($conn, $sql);
     <div class="main-content">
         <div class="header">
             <h1>Registered Users</h1>
-            <a href="login.php" class="logout-btn">
-                <span class="material-symbols-outlined">logout</span>
-                Logout
-            </a>
         </div>
 
         <div class="data-table-container">
